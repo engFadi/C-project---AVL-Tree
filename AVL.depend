@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716556814 source:c:\users\fadi bassous\desktop\avl\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
